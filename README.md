@@ -1,11 +1,11 @@
 
-# Project: web-scraper
+## Project: web-scraper
 
-### `Author: Muayad Al Shareef
+### Author: Muayad Al Shareef
 
 ## LAB - Class 17
 
-[Resources](https://canvas.instructure.com/courses/4839248/assignments/30188494)
+### [_Resources_](https://canvas.instructure.com/courses/4839248/assignments/30188494)
 #### <!-- back-end server url (when applicable) --> 
 #### <!-- front-end application (when applicable) --> 
 
@@ -24,7 +24,7 @@
 
 ## Code 
 
-[Code](./craper.py)
+### [`Code`](./craper.py)
 
 [//]: # ([Test]&#40;./tests/test_series.py&#41;)
 
