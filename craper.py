@@ -32,7 +32,7 @@ def get_citations_needed_report(url: str):
         paragraph = f"Citation needed for \"{citation.find_parents('p')[0].text}"
         paragraph = paragraph.replace('[citation needed]', '')
         paragraph = paragraph.replace('[6]', '')
-        paragraph = paragraph.replace('over a period traditionally', '\n\nCitation needed for\"over a period traditionally')
+        paragraph = paragraph.replace('over a period traditionally', '\n\nCitation needed for \"over a period traditionally')
 
         output.append(paragraph)
 
